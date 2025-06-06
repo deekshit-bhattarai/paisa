@@ -1,0 +1,6 @@
+[submodule "paisa-web"]
+	path = paisa-web
+	url = git@github.com-work:deekshit-bhattarai/paisa-web.git
+[submodule "paisa-server"]
+	path = paisa-server
+	url = git@github.com-work:deekshit-bhattarai/paisa-server.git
